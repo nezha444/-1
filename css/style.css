@@ -1,4 +1,62 @@
-*{
-    padding: 0;
-    margin: 0;
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  box-sizing: border-box;
+  width: 1600px;
+  height: 80px;
+  margin: 0 auto;
+  font-family: "Roboto", sans-serif;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.header {
+  display: flex;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  align-items: center;
+}
+
+.main-header {
+  background-color: rgb(241, 220, 220);
+}
+
+.webstudio {
+  margin: 0 93px 0 215px;
+}
+
+.studio {
+  padding-right: 50px;
+}
+
+.portfolio {
+  padding-right: 50px;
+}
+
+.nav {
+  padding-right: 331px;
+}
+
+.mail {
+  padding-right: 50px;
+}
+
+.blue {
+  color: #2196f3;
+}
+
+.grey {
+  color: #757575;
+}
+
+.black {
+  color: #212121;
+}
+
+.naviganion-part {
 }
